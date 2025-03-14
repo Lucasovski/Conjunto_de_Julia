@@ -1,2 +1,1 @@
-# Conjunto_de_Julia
-Explorador de Conjuntos de Julia
+Este código em Python explora a relação entre a forma do conjunto de Julia cheio e o destino da órbita do ponto 0 sob a função quadrática Qc(z) = z² + c.
